@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/tracking.js": "/js/tracking.js",
+    "/js/components/component-name.js": "/js/components/component-name.js",
+    "/vendors~js/components/component-name.js": "/vendors~js/components/component-name.js",
+    "/vendors~js/components/gallery.js": "/vendors~js/components/gallery.js",
+    "/js/components/gallery.js": "/js/components/gallery.js"
+}
